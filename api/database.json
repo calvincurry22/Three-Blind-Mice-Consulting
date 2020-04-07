@@ -1,0 +1,66 @@
+{
+    "computers": [
+        {
+            "id": 1,
+            "model": "Macbook Pro",
+            "year": 2015
+        },
+        {
+            "id": 2,
+            "model": "Macbook AIR",
+            "year": 2018
+        },
+        {
+            "id": 3,
+            "model": "Asus VividBook",
+            "year": 2018
+        },
+        {
+            "id": 4,
+            "model": "Lenovo Flex S340",
+            "year": 2019
+        },
+        {
+            "id": 5,
+            "model": "Microsoft Surface Pro",
+            "year": 2018
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "firstName": "Rainu",
+            "lastName": "Ittycheriah",
+            "age": 32,
+            "computerId": 1
+        },
+        {
+            "id": 2,
+            "firstName": "Steve",
+            "lastName": "Rogers",
+            "age": 102,
+            "computerId": 5
+        },
+        {
+            "id": 3,
+            "firstName": "Natasha",
+            "lastName": "Romanoff",
+            "age": 36,
+            "computerId": 2
+        },
+        {
+            "id": 4,
+            "firstName": "Reed",
+            "lastName": "Richards",
+            "age": 40,
+            "computerId": 4
+        },
+        {
+            "id": 5,
+            "firstName": "Adam",
+            "lastName": "Brashear",
+            "age": 64,
+            "computerId": 3
+        }
+    ]
+}
