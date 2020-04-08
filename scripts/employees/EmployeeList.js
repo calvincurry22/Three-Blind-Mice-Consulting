@@ -6,7 +6,7 @@ import { useLocations } from "../locations/LocationDataProvider.js";
 import { useCustomers } from "../customers/CustomerDataProvider.js";
 import { useEmployeeCustomers } from "./EmployeeCustomerProvider.js";
 
-const contentTarget = document.querySelector(".container")
+const contentTarget = document.querySelector(".employeesContainer")
 
 
 export const EmployeeList = () => {
