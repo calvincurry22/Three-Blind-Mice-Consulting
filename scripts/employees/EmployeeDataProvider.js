@@ -10,8 +10,10 @@ export const getEmployees = () => {
 }
 
 
-export const useEmployees = () => {
-    return employees.slice()
-}
+export const useEmployees = () => employees.slice()
+
+
+
+
 
 
